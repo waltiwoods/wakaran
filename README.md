@@ -1,2 +1,1 @@
-# wakaran
-# nanimo wakaran
+wakatta kamo sirenai
